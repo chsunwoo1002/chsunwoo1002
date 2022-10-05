@@ -1,4 +1,4 @@
 Hi,
-I am computer science student in Canada. 
+I am computer science student at University of Victoria
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chsunwoo1002&count_private=true&theme=buefy&show_icons=true)
